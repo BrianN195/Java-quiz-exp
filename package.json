@@ -1,0 +1,24 @@
+{
+  "name": "java-quiz-exp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "html.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "style": "sass --watch ./styles/style.scss:./styles/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianN195/Java-quiz-exp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianN195/Java-quiz-exp/issues"
+  },
+  "homepage": "https://github.com/BrianN195/Java-quiz-exp#readme",
+  "devDependencies": {
+    "sass": "^1.89.2"
+  }
+}

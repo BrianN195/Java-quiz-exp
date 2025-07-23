@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+.card img {
+  height: 10rem;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+/*# sourceMappingURL=style.css.map */
